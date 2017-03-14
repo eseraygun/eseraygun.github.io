@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Polytope","A data structure that represents a polytope — a flat sided multi-dimensional object where the vertices are connected by edges, edges by faces, faces by cells, etc."]],"type":[["Element","An element represented as the list of indices of its lower dimensional bounding elements."]]});
